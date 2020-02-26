@@ -1,2 +1,2 @@
-# EpamAss1
+# EpamAssignments
 Maven Project
